@@ -1,4 +1,6 @@
 body{
+    text-align: center;
+    font-family: "Arial";
     font-size: 2em;
 }
 [class*="button-"]{
@@ -12,5 +14,5 @@ body{
     background: orange;
 }
 .button-alert{
-    background: red;
+    background: rgb(54, 40, 40);
 }
